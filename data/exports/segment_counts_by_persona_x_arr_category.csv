@@ -1,0 +1,23 @@
+Persona,ARR Category,Active,Churned,min_n
+P1,SMB,600,93,93
+P2,SMB,677,82,82
+P3,SMB,301,42,42
+P2,MidMarket,458,34,34
+P3,MidMarket,777,21,21
+P4,SMB,64,16,16
+G3,SMB,71,12,12
+G2,SMB,169,10,10
+G1,SMB,157,9,9
+G3,MidMarket,134,9,9
+G2,MidMarket,85,9,9
+P1,MidMarket,88,5,5
+P4,MidMarket,105,4,4
+P3,Enterprise,75,4,4
+P4,Enterprise,120,3,3
+G4,SMB,19,2,2
+G3,Enterprise,16,2,2
+G4,MidMarket,24,1,1
+P2,Enterprise,18,1,1
+G4,Enterprise,15,1,1
+G2,Enterprise,5,1,1
+G1,MidMarket,19,0,0

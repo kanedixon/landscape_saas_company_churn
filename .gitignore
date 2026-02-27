@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+data_viz_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local secrets
+.env
+
+# Local Office artifacts (keep repo lean)
+data/.~lock*
+data/*.xlsx
+data/*.ods
+
